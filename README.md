@@ -14,3 +14,4 @@
 3. [Prettier options](https://prettier.io/docs/en/options.html) - Prettier ships with a handful of format options.
 4. [Enforcing Coding Conventions with Husky Pre-commit Hooks](https://khalilstemmler.com/blogs/tooling/enforcing-husky-precommit-hooks/) - learn how to setup Husky to prevent bad git commits and enforce code standards in your project.
 5. [Why husky has dropped conventional JS config](https://blog.typicode.com/husky-git-hooks-javascript-config/)
+6. [lint-staged](https://github.com/okonet/lint-staged) - It runs the linter, but only against files that are staged (files that you're ready to push).
